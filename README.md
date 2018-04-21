@@ -1,6 +1,7 @@
 # Gomoku
 
 A simple man v.s. PC Gomoku game in Python.
+live demo: https://youtu.be/yjFs4SOxnYQ
 
 ### Synopsis
 
@@ -21,7 +22,7 @@ You need to install python 2.7 or higher version to run it on a win 64 system.
 
 ### Installing
 
-live demo: (insert youtube link later)
+Python version: 2.7 or higher version
 
 ## Example Use
 
